@@ -1,5 +1,5 @@
-# Project3
-Get Vaxxed
+# Blog
+tech-blog
 
 ## Team: Dark Horse Group
 
